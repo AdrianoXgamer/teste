@@ -1,3 +1,1 @@
-"Filme | Ação"Quarteto fantástico
-https://video.wixstatic.com/video/834009_1a87ecfdf4224f708db5081d4f45d186/720p/mp4/file.mp4
-tvg-logo=https://image.tmdb.org/t/p/w780/gzhVcfC5j0sTnS4WJzBrCS0Vkr0.jpg"  
+#EXTINF: 0 logo = tvg-logo =tvg-logo=https://animesonline.club/img/?src=assets/imgs/filme/dragon-ball-z-o-ataque-do-dragao_1621270716.jpg&h=555&w=384&zc=0"    ," Filme | Ação "Dragon ball Z o ataque do dragãohttps://cdn.ultracine.net/animes/1filmes/filme-13-dragon-ball-z-furia-do-dragao-dub.mp4?token=1W-IyqRj2iMqkfk_Y8quwQ&expires=1631598991
